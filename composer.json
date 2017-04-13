@@ -1,0 +1,10 @@
+{
+    "name": "luciano-jr/omninvoice-common",
+    "authors": [
+        {
+            "name": "Luciano Jr",
+            "email": "luciano@lucianojr.com.br"
+        }
+    ],
+    "require": {}
+}
